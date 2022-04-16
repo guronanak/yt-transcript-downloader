@@ -6,7 +6,7 @@
     "icons": {
         "48": "icons/arrow-outline-down.svg"
     },
-    "author": "Guro Nanak"
+    "author": "Guro Nanak",
     "browser_action": {
         "default_icon": "icons/arrow-outline-down-dl.svg",
         "default_title": "Transcript Downloader - Evo"
