@@ -1,14 +1,15 @@
 {
     "manifest_version": 2,
-    "name": "Transcript Downloader",
-    "version": "0.1",
-    "description": "Print transcripts from youtube videos to developer console.",
+    "name": "Transcript Downloader - Evo",
+    "version": "0.7",
+    "description": "Copy transcripts from youtube videos to clipboard and developer console",
     "icons": {
         "48": "icons/arrow-outline-down.svg"
     },
+    "author": "Guro Nanak"
     "browser_action": {
         "default_icon": "icons/arrow-outline-down-dl.svg",
-        "default_title": "Transcript Downloader"
+        "default_title": "Transcript Downloader - Evo"
     },
     "content_scripts": [
         {
